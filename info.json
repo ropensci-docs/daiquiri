@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "09a0ecd53da31750d20dc3702af861f8c23e1b59",
+    "author": "Phuong Quan <phuong.quan@ndm.ox.ac.uk>",
+    "time": "2023-01-04 18:13:25",
+    "files": 5,
+    "merge": false,
+    "message": "Include a heatmap for subcat fields\n"
+  },
+  "repo": "https://github.com/ropensci/daiquiri",
+  "pkg": "daiquiri"
+}
