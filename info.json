@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "8aca90680c9fa2b20180b95ab5c7af357dee767a",
+    "author": "Phuong Quan <phuong.quan@ndm.ox.ac.uk>",
+    "time": "2023-07-18 16:50:49",
+    "files": 42,
+    "merge": false,
+    "message": "update website\n"
+  },
+  "repo": "https://github.com/ropensci/daiquiri",
+  "pkg": "daiquiri"
+}
