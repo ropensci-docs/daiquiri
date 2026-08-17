@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "5e8166056c3ccff763ea60bcd896aeccffd73b5d",
+    "author": "Leonidas Zhak <70497898+LeonidasZhak@users.noreply.github.com>",
+    "time": "2026-07-18T13:26:05Z",
+    "files": 3,
+    "merge": false,
+    "message": "Fix reports for empty datetime fields (#28)\n\n* fix report for empty datetime fields\n\n* test: update source data snapshots\n\n* Explain all-missing datetime workaround"
+  },
+  "repo": "https://github.com/ropensci/daiquiri",
+  "pkg": "daiquiri",
+  "time": "2026-08-17T05:14:51Z"
+}

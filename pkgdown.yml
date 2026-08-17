@@ -1,0 +1,11 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  daiquiri: daiquiri.html
+  articles/example_report_stratified: example_report_stratified.html
+  articles/example_report: example_report.html
+last_built: 2026-08-17T05:12Z
+urls:
+  reference: https://docs.ropensci.org/daiquiri/reference
+  article: https://docs.ropensci.org/daiquiri/articles
