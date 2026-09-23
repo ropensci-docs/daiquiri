@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "515131406c6bed86a7bf5bf53aef83bb8f60158c",
+    "author": "Leonidas Zhak <70497898+LeonidasZhak@users.noreply.github.com>",
+    "time": "2026-09-23T09:29:08Z",
+    "files": 3,
+    "merge": false,
+    "message": "fix: format generated filename timestamps portably (#30)"
+  },
+  "repo": "https://github.com/ropensci/daiquiri",
+  "pkg": "daiquiri",
+  "time": "2026-09-23T11:59:05Z"
+}
